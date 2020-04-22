@@ -1,0 +1,13 @@
+  
+#include <iostream>
+
+using namespace std;
+
+int fungsi (){
+	int a = 5, b = 20;
+	return a * b;
+}
+
+int main (){
+	cout << fungsi ();
+}
